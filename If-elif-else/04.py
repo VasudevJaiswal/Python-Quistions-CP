@@ -1,7 +1,7 @@
 # Write a program to display "Hello" if a number entered by user is a multiple of five , 
 # otherwise print "Bye".
 
-print("Program displayed - 'Hello' or 'Bye' If user Entered Number multiple of 5")
+print("Program displayed - 'Hello' If user Entered Number multiple of 5 Other-wise displayed bye")
 
 num = int(input("Enter the Number : "))
 if(num%5==0):
