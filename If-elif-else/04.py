@@ -9,5 +9,6 @@ if(num%5==0):
 else:
     print("Bye")
 
+
 # For not close immediately 
 input("Press Enter to close program")
