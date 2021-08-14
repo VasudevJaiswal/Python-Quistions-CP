@@ -6,3 +6,6 @@ if age>=18:
     print("You are Eligible for Voting ")
 else:
     print("You are not Eligible for Voting")
+
+# For not close immediately 
+input("Press enter to close program")
