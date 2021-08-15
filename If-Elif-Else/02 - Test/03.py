@@ -13,3 +13,7 @@ else:
         print("Entered Year is Leep Year")
     else:
         print("Entered Year is not Leep Year ")
+
+
+# For not close immediately 
+input("Press Enter to close program")
