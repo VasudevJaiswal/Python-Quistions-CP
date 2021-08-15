@@ -9,3 +9,14 @@
 print("Enter your marks for grade - gradding system ")
 
 marks = int(input("Enter Your Marks : "))
+
+if(marks>90):
+    grade = "A"
+elif(marks>80 and marks<=90):
+    grade = "B"
+elif(marks>=60 and marks<=80):
+    grade = "C"
+elif(marks<60):
+    grade = "D"
+else:
+    print("You are Failed ")
