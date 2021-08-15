@@ -20,3 +20,7 @@ elif(marks<60):
     grade = "D"
 else:
     print("You are Failed ")
+
+
+# For not close immediately 
+input("Press Enter to close program")
