@@ -4,7 +4,7 @@
 
 print("Accept a number from 1 to 12 and display name of days and date ")
 
-num=int(input("Enter any number between 1 to 7 : "))
+num=int(input("Enter any number between 1 to 12 : "))
 if num==1:
     print("January")
 elif num==2:
