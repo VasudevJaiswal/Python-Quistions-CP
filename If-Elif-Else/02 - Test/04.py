@@ -20,3 +20,8 @@ elif(num==7):
     print("Saturday")
 else:
     print("Please Enter between 1 to  7 ")
+
+
+
+# For not close immediately 
+input("Press Enter to close program")
