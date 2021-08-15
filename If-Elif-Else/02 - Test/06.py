@@ -5,8 +5,14 @@
 # quis 2. 
 # Write the output of the following:
 
-if True:
+print(''' if True:
     print(101)
+else:
+    print(100)
+''')
+
+if True:
+    print("Output is - 101")
 else:
     print(100)
 
