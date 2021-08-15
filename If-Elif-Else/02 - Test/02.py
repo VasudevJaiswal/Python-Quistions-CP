@@ -18,6 +18,6 @@ elif(Cost_Price>50000 and Cost_Price<=100000):
 elif(Cost_Price<=50000):
     tax = (Cost_Price*5)/100
 
-
+print("tax is Payed by bike owner ", str(tax))
 # For not close immediately 
 input("Press Enter to close program")
