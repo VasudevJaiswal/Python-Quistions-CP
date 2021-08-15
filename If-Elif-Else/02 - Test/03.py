@@ -2,7 +2,7 @@
 
 print("Check Years is Leep year or not")
 
-year = int("Enter your Year : ")
+year = int(input("Enter your Year : "))
 if(year%100==0):
     if(year%400==0):
         print("Entered Year is Leep year")
