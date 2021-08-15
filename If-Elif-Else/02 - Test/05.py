@@ -35,4 +35,3 @@ else:
 
 # For not close immediately 
 input("Press Enter to close program")
-
