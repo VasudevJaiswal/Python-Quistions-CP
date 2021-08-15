@@ -10,3 +10,7 @@ if(id%3==0):
     print("Last digit of number is divisible by 3")
 else:
     print("Last digit of number is ''Not' divisible by 3")
+
+
+# For not close immediately 
+input("Press Enter to close program")
