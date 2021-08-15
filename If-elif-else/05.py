@@ -21,5 +21,6 @@ elif(num>=350):
 
 print("Amount is ",str(amt))
 
-print("Amount is ", str(amt))
     
+# For not close immediately 
+input("Press Enter to close program")
