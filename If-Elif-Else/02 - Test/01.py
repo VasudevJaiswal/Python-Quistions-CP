@@ -7,3 +7,5 @@
 #          below 60                                  D
 
 print("Enter your marks for grade - gradding system ")
+
+marks = int(input("Enter Your Marks : "))
