@@ -18,8 +18,8 @@ elif(marks>=60 and marks<=80):
     grade = "C"
 elif(marks<60):
     grade = "D"
-else:
-    print("You are Failed ")
+
+print("Grade is ", str(grade))
 
 
 # For not close immediately 
