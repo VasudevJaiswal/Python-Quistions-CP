@@ -7,4 +7,8 @@
 
 
 print("By Cost price of a bike - calculate  road tax to be paid ")
-Cost_Price = 
+
+tax = 0
+Cost_Price = int(input("Enter Cost price of Bike : "))
+
+if
