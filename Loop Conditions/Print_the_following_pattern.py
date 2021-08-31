@@ -5,3 +5,11 @@
 1 2 3 
 1 2 3 4 
 1 2 3 4 5'''
+
+
+print("Second Number Pattern ")
+lastNumber = int(input("Enter your Number : "))
+for row in range(1, lastNumber):
+    for column in range(1, row + 1):
+        print(column, end=' ')
+    print("")
